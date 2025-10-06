@@ -1,25 +1,11 @@
 # Hello World
 
-Basic site test of markdown.
+This is my website
+
+### About Me
 
 
-## H2
-
-### H3
-
-#### H4
+### About this Site
 
 
----
-Page Break
----
-
-
-> Quote
-
-
-```python
-code
-```
-
-Inline `code` example.
+- [Cool Projects](pages/cool_projects.md)
