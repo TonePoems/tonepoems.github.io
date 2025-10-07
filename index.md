@@ -11,4 +11,4 @@ This is my website
 - [Cool Projects](pages/cool_projects.md)
 
 
-{ % include file_name % }
+{ % include footer.html % }
