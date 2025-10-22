@@ -12,4 +12,4 @@ To create a post, add a file to your `_posts` directory with the following forma
 YEAR-MONTH-DAY-title.md
 ```
 
-References https://jekyllrb.com/docs/posts/
+References [https://jekyllrb.com/docs/posts/](https://jekyllrb.com/docs/posts/)
