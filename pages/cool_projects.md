@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Cool Projects"
 permalink: /Cool_Projects
+---
 
 # Cool Projects
 
