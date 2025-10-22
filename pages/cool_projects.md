@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Cool Projects"
 permalink: /Cool_Projects
 ---
