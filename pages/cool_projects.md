@@ -18,7 +18,7 @@ This page is broken up into
 
 ## Technical Projects
 
-This is a collection of some of my favorite projects found online. They are usually a source of thought, inspiration, and often a good amount of imposter syndrome. I obviously don't have strict criteria for what projects really stick with me, but I have found that most often their motivation statement could be `¯\_(ツ)_/¯`. These projects thrill me.
+This is a collection of some of my favorite projects found online. They are usually a source of thought, inspiration, and often a good amount of imposter syndrome. I obviously don't have strict criteria for what projects really stick with me, but I have found that most often their motivation statement could be `¯\_(ツ)_/¯`. These projects are really exciting to me.
 
 I will attempt to provide a decent summary of each, but please check out the original sources!
 
@@ -90,6 +90,13 @@ A fantastic video from [suckerpinch](https://www.youtube.com/@tom7) that has a u
 
 ---
 
+### [Solid State Volumetric Display](https://youtu.be/wrfBjRp61iY?si=z9dZ_cHXfWCrwzCK)
+
+![Solid State Volumetric Display image](..\resources\images\volume_display.png)
+
+A cool video of a topic I find randomly interesting, volumemetric displays. Most of them are created with spinning or linear movement, so this is a neat approach. 
+
+---
 
 
 ## Technical Articles
@@ -108,6 +115,9 @@ I have several blogs and technical sites I like to read. Usually get a batch of 
 - [Atlassian Blog](https://www.atlassian.com/blog): Most recent addition. Pretty liberal/HR heavy approaches but food for thought. I really like their concept of playbooks that they share in some of them.
 
 - [RJ Andrews](https://www.chartography.net/) is the data scientist who did the "Info We Trust" book and the moon landing website. I'm subscribed to his monthly(?) newsletter.
+
+- [Neil and Buzz Go for a Walk](https://tranquility.infowetrust.com/)
+   - A fantastic interactive timeline of the first moon landing, created by the above RJ Andrews. He also has a [great writeup](https://infowetrust.com/project/tranquility-design) docmenting the process of creating it. This is a top tier example of getting a wide amount of info across in a clean and clear way. 
 
 
 ## Documentation and Visual Tools
