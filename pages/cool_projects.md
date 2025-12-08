@@ -26,6 +26,8 @@ I will attempt to provide a decent summary of each, but please check out the ori
 
 ### [Button Stealer](https://anatolyzenkov.com/stolen-buttons/button-stealer)
 
+![button Stealer image](..\resources\images\button_stealer.png)
+
 A Chrome extension that "steals" a button from every website you open, adding it to a trophy wall of buttons you have encountered.
 
 ---
@@ -43,6 +45,8 @@ Type in Morse code by repeatedly slamming your laptop shut (Really worth checkin
 ---
 
 ### [Copy Dialog Lunar Lander](https://github.com/Sanakan8472/copy-dialog-lunar-lander)
+
+![Copy Dialog Lunar Lander image](..\resources\images\lunar_lander_copy.png)
 
 Play Lunar Lander in the Windows copy dialog box.
 
