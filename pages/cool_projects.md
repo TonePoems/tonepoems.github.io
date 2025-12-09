@@ -102,6 +102,22 @@ A cool video of a topic I find randomly interesting, volumemetric displays. Most
 
 ---
 
+### [Can You Draw Every Flag in Powerpoint?](https://youtu.be/w5QSVhgrqVE?si=N5Ef2iEGZg2GC0BB)
+
+![PowerPoint Flag Making image](..\resources\images\powerpoint_flags.png)
+
+Perfect example of putting way too much work into an esoteric project. PowerPoint is my preferred meme generator for work so this holds a special place in my heart.
+
+It has (very raapidly) spawned [several other](https://youtu.be/iT2pfmv3cSE?si=pJmME35hGE_6yRt4) in depth videos expanding on the PowerPoint flag making capabilities.
+
+---
+
+### [Emergent Complexity](https://youtu.be/0HqUYpGQIfs?si=_pPXQTerTwDwvgWw)
+
+Emergent behaviors and complexity have long been an interesting subject. This is a great overview video of the topic, and introduction to Stephen Wolfram, who's writings I really enjoy.
+
+---
+
 
 ## Technical Articles
 I have several blogs and technical sites I like to read. Usually get a batch of them every month then try to get through one a day. Gives a break from technical stuff, easy reading during lunch, or expand my range a bit. Started this a few years ago when a former boss suggested daily reading as a habit for expanding/connecting ideas and staying current with interesting things.
