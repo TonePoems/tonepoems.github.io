@@ -98,7 +98,7 @@ A fantastic video from [suckerpinch](https://www.youtube.com/@tom7) that has a u
 
 ![Solid State Volumetric Display image](..\resources\images\volume_display.png)
 
-A cool video of a topic I find randomly interesting, volumemetric displays. Most of them are created with spinning or linear movement, so this is a neat approach. 
+A cool video of a topic I find randomly interesting, volumetric displays. Most of them are created with spinning or linear movement, so this is a neat approach. 
 
 ---
 
@@ -108,7 +108,7 @@ A cool video of a topic I find randomly interesting, volumemetric displays. Most
 
 Perfect example of putting way too much work into an esoteric project. PowerPoint is my preferred meme generator for work so this holds a special place in my heart.
 
-It has (very raapidly) spawned [several other](https://youtu.be/iT2pfmv3cSE?si=pJmME35hGE_6yRt4) in depth videos expanding on the PowerPoint flag making capabilities.
+It has (very rapidly) spawned [several other](https://youtu.be/iT2pfmv3cSE?si=pJmME35hGE_6yRt4) in depth videos expanding on the PowerPoint flag making capabilities.
 
 ---
 
@@ -137,7 +137,7 @@ I have several blogs and technical sites I like to read. Usually get a batch of 
 - [RJ Andrews](https://www.chartography.net/) is the data scientist who did the "Info We Trust" book and the moon landing website. I'm subscribed to his monthly(?) newsletter.
 
 - [Neil and Buzz Go for a Walk](https://tranquility.infowetrust.com/)
-   - A fantastic interactive timeline of the first moon landing, created by the above RJ Andrews. He also has a [great writeup](https://infowetrust.com/project/tranquility-design) docmenting the process of creating it. This is a top tier example of getting a wide amount of info across in a clean and clear way. 
+   - A fantastic interactive timeline of the first moon landing, created by the above RJ Andrews. He also has a [great writeup](https://infowetrust.com/project/tranquility-design) documenting the process of creating it. This is a top tier example of getting a wide amount of info across in a clean and clear way. 
 
 
 ## Documentation and Visual Tools
@@ -156,7 +156,7 @@ Someone asked today about Mermaid, and it made me want to share some of the othe
 
     - [Dataview plugin](https://github.com/blacksmithgu/obsidian-dataview): Uses SQLite like commands to aggregate data from different files in the vault. I use it for totaling hours for my different projects to track percentages
 
-    - Obsidian Checkboxes: I recently found a cool theme that extended markdown checkbobxes for different uses! So here it is in [snippit form](../resources/checkboxes.css), simply drop in your Obsidian Snippits folder and load into your application (May not work with all custom themes, but you can just modify the css).
+    - Obsidian Checkboxes: I recently found a cool theme that extended markdown checkboxes for different uses! So here it is in [snippit form](../resources/checkboxes.css), simply drop in your Obsidian Snippits folder and load into your application (May not work with all custom themes, but you can just modify the css).
         
 ```
 - [ ] open  
