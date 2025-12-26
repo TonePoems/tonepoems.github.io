@@ -138,7 +138,7 @@ Disney's Imagineers put out some really high quality work and technical papers. 
 
 ### [How Does A Blind Model See The Earth?](https://outsidetext.substack.com/p/how-does-a-blind-model-see-the-earth)
 
-![AI generated map of the Earth](..\resources\images\AI_Earth.png)
+![AI generated map of the Earth](..\resources\images\AI_earth.png)
 
 This is a fantastic article that practically compares models in an interesting way. It feels like getting a peak inside the "brain" of the different models. This one is extra interesting to me based on my heightmap projects.
 
