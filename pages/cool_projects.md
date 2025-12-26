@@ -118,6 +118,32 @@ Emergent behaviors and complexity have long been an interesting subject. This is
 
 ---
 
+### [Automating Jetpack Joyride with Image Recognition](https://youtu.be/BQP50rVrl-0?si=gfK81AhHZjAPkUf1)
+
+![Automating Jetpack Joyride](..\resources\images\jetpack_joyride.png)
+
+Great video going over a cool use of free will. I played a ton of Jetpack Joyride as a kid so this is really cool to see.
+
+---
+
+### [Olaf](https://youtu.be/-L8OFMTteOo?si=fIN1WYpA6GBcN9_T)
+
+![Bringing Olaf to life](..\resources\images\olaf.png)
+
+Disney Research's video (and [paper](https://arxiv.org/abs/2512.16705)) on "Bringing an Animated Character to Life in the Physical World". This goes over some of the standard constructive training techniques and blends them with the hardware required to make it real. While I (currently) don't have any hardware experience, this is a bit of an area of interest for me, with [James Bruton](https://www.youtube.com/@jamesbruton) being primarily to blame.
+
+Disney's Imagineers put out some really high quality work and technical papers. It is very neat to see that work being shared so publicly, so this channel is definitely worth a follow.
+
+---
+
+### [How Does A Blind Model See The Earth?](https://outsidetext.substack.com/p/how-does-a-blind-model-see-the-earth)
+
+![AI generated map of the Earth](..\resources\images\AI_Earth.png)
+
+This is a fantastic article that practically compares models in an interesting way. It feels like getting a peak inside the "brain" of the different models. This one is extra interesting to me based on my heightmap projects.
+
+---
+
 
 ## Technical Articles
 I have several blogs and technical sites I like to read. Usually get a batch of them every month then try to get through one a day. Gives a break from technical stuff, easy reading during lunch, or expand my range a bit. Started this a few years ago when a former boss suggested daily reading as a habit for expanding/connecting ideas and staying current with interesting things.
