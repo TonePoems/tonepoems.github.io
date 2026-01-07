@@ -26,7 +26,7 @@ I will attempt to provide a decent summary of each, but please check out the ori
 
 ### [Button Stealer](https://anatolyzenkov.com/stolen-buttons/button-stealer)
 
-![button Stealer image](..\resources\images\button_stealer.png){: width="250" }
+![button Stealer image](..\resources\images\button_stealer.png){: width="500" }
 
 A Chrome extension that "steals" a button from every website you open, adding it to a trophy wall of buttons you have encountered.
 
@@ -46,7 +46,7 @@ Type in Morse code by repeatedly slamming your laptop shut (Really worth checkin
 
 ### [Copy Dialog Lunar Lander](https://github.com/Sanakan8472/copy-dialog-lunar-lander)
 
-![Copy Dialog Lunar Lander image](..\resources\images\lunar_lander_copy.png){: width="250" }
+![Copy Dialog Lunar Lander image](..\resources\images\lunar_lander_copy.png){: width="500" }
 
 Play Lunar Lander in the Windows copy dialog box.
 
@@ -96,7 +96,7 @@ A fantastic video from [suckerpinch](https://www.youtube.com/@tom7) that has a u
 
 ### [Solid State Volumetric Display](https://youtu.be/wrfBjRp61iY?si=z9dZ_cHXfWCrwzCK)
 
-![Solid State Volumetric Display image](..\resources\images\volume_display.png){: width="250" }
+![Solid State Volumetric Display image](..\resources\images\volume_display.png){: width="500" }
 
 A cool video of a topic I find randomly interesting, volumetric displays. Most of them are created with spinning or linear movement, so this is a neat approach. 
 
@@ -104,7 +104,7 @@ A cool video of a topic I find randomly interesting, volumetric displays. Most o
 
 ### [Can You Draw Every Flag in Powerpoint?](https://youtu.be/w5QSVhgrqVE?si=N5Ef2iEGZg2GC0BB)
 
-![PowerPoint Flag Making image](..\resources\images\powerpoint_flags.png){: width="250" }
+![PowerPoint Flag Making image](..\resources\images\powerpoint_flags.png){: width="500" }
 
 Perfect example of putting way too much work into an esoteric project. PowerPoint is my preferred meme generator for work so this holds a special place in my heart.
 
@@ -120,7 +120,7 @@ Emergent behaviors and complexity have long been an interesting subject. This is
 
 ### [Automating Jetpack Joyride with Image Recognition](https://youtu.be/BQP50rVrl-0?si=gfK81AhHZjAPkUf1)
 
-![Automating Jetpack Joyride](..\resources\images\jetpack_joyride.png){: width="250" }
+![Automating Jetpack Joyride](..\resources\images\jetpack_joyride.png){: width="500" }
 
 Great video going over a cool use of free will. I played a ton of Jetpack Joyride as a kid so this is really cool to see.
 
@@ -128,7 +128,7 @@ Great video going over a cool use of free will. I played a ton of Jetpack Joyrid
 
 ### [Olaf](https://youtu.be/-L8OFMTteOo?si=fIN1WYpA6GBcN9_T)
 
-![Bringing Olaf to life](..\resources\images\olaf.png){: width="250" }
+![Bringing Olaf to life](..\resources\images\olaf.png){: width="500" }
 
 Disney Research's video (and [paper](https://arxiv.org/abs/2512.16705)) on "Bringing an Animated Character to Life in the Physical World". This goes over some of the standard constructive training techniques and blends them with the hardware required to make it real. While I (currently) don't have any hardware experience, this is a bit of an area of interest for me, with [James Bruton](https://www.youtube.com/@jamesbruton) being primarily to blame.
 
@@ -138,7 +138,7 @@ Disney's Imagineers put out some really high quality work and technical papers. 
 
 ### [How Does A Blind Model See The Earth?](https://outsidetext.substack.com/p/how-does-a-blind-model-see-the-earth)
 
-![AI generated map of the Earth](..\resources\images\AI_earth.png){: width="250" }
+![AI generated map of the Earth](..\resources\images\AI_earth.png){: width="500" }
 
 This is a fantastic article that practically compares models in an interesting way. It feels like getting a peak inside the "brain" of the different models. This one is extra interesting to me based on my heightmap projects.
 
