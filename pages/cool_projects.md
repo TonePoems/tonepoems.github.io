@@ -18,7 +18,7 @@ This page is broken up into
 
 ## Technical Projects
 
-This is a collection of some of my favorite projects found online. They are usually a source of thought, inspiration, and often a good amount of imposter syndrome. I obviously don't have strict criteria for what projects really stick with me, but I have found that most often their motivation statement could be `¯\_(ツ)_/¯`. These projects are really exciting to me.
+This is a collection of some of my favorite projects found online. They are usually a source of thought, inspiration, and often a good amount of imposter syndrome. I obviously don't have strict criteria for what projects really stick with me, but I have found that most often their motivation statement could be `¯\_(ツ)_/¯`. The unnecessary, but made anyways really captures what I love about all you can create with programming.
 
 I will attempt to provide a decent summary of each, but please check out the original sources!
 
@@ -138,13 +138,13 @@ Disney's Imagineers put out some really high quality work and technical papers. 
 
 ![AI generated map of the Earth](..\resources\images\AI_earth.png){: width="500" }
 
-This is a fantastic article that practically compares models in an interesting way. It feels like getting a peak inside the "brain" of the different models. This one is extra interesting to me based on my heightmap projects.
+This is a fantastic article that practically compares models in an interesting way. It feels like getting a peak inside the "brain" of the different models. This fits neatly into my fascination with heightmap projects.
 
 ---
 
 
 ## Technical Articles
-I have several blogs and technical sites I like to read. Usually get a batch of them every month then try to get through one a day. Gives a break from technical stuff, easy reading during lunch, or expand my range a bit. Started this a few years ago when a former boss suggested daily reading as a habit for expanding/connecting ideas and staying current with interesting things.
+I have several blogs and technical sites I like to read. Usually get a batch of them every month then try to get through one a day. Gives a break from technical stuff, easy reading during lunch, or expands my range a bit. Started this a few years ago when a former boss suggested daily reading as a habit for expanding/connecting ideas and staying current with interesting things.
 
 - [Stack Overflow Blog](https://stackoverflow.blog/): Mainly focused on Webdev and AI right now. Some interesting things in their history.
 
@@ -199,15 +199,13 @@ Someone asked today about Mermaid, and it made me want to share some of the othe
 
 - [Ascii Flow](https://asciiflow.com/): Good tool for generating formatted text blocks with proper spacing for code comments
 
-- [Fighter Brief](https://fighterbrief.com/): Huge shoutout to John DeWeese for introducing this to me. Cool way to display a range of military equipment and movement. NOT CUI SAFE, just fun to mess around with.
+- [Fighter Brief](https://fighterbrief.com/): Huge shoutout to John DeWeese for showing me this. Cool way to display a range of military equipment and movement. NOT CUI SAFE, just fun to mess around with.
 
 - [Symbl](https://symbl.cc/): for all your symbol needs
-
 
 - Beautiful embroidered aerial field art. It reminds me of my terrain generation project and center pivot irrigation calculations. [VICTORIA ROSE RICHARDS](https://www.etsy.com/uk/shop/chromatomania) is a "needle painter" embroidering aerial field art inspired by her native Devon countryside in England. Found her work through an RJ Andrews post.
 
 ![embroidered aerial field art](..\resources\images\embroidery_map.png){: width="500" }
-
 
 - This [map of computer science](https://www.informationisbeautifulawards.com/showcase/2333-map-of-computer-science) has stuck with me for several years. I love it from a layout perspective, how the ideas are conveyed with graphics, and the relative locations/colors of different areas. I have found myself thinking about my own skills and technical domains as a map that has it's "fog of war" effect slowly removed as I link ideas together and things start falling into place. This is really only a retrospective look at it, and nothing I would be able to actually draw out, just a fun analogy I keep coming back to. 
 
