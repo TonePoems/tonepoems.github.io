@@ -128,8 +128,6 @@ Great video going over a cool use of free will. I played a ton of Jetpack Joyrid
 
 ### [Olaf](https://youtu.be/-L8OFMTteOo?si=fIN1WYpA6GBcN9_T)
 
-![Bringing Olaf to life](..\resources\images\olaf.png){: width="500" }
-
 Disney Research's video (and [paper](https://arxiv.org/abs/2512.16705)) on "Bringing an Animated Character to Life in the Physical World". This goes over some of the standard constructive training techniques and blends them with the hardware required to make it real. While I (currently) don't have any hardware experience, this is a bit of an area of interest for me, with [James Bruton](https://www.youtube.com/@jamesbruton) being primarily to blame.
 
 Disney's Imagineers put out some really high quality work and technical papers. It is very neat to see that work being shared so publicly, so this channel is definitely worth a follow.
@@ -205,6 +203,15 @@ Someone asked today about Mermaid, and it made me want to share some of the othe
 
 - [Symbl](https://symbl.cc/): for all your symbol needs
 
+
+- Beautiful embroidered aerial field art. It reminds me of my terrain generation project and center pivot irrigation calculations. [VICTORIA ROSE RICHARDS](https://www.etsy.com/uk/shop/chromatomania) is a "needle painter" embroidering aerial field art inspired by her native Devon countryside in England. Found her work through an RJ Andrews post.
+
+![embroidered aerial field art](..\resources\images\embroidery_map.png){: width="500" }
+
+
+- This [map of computer science](https://www.informationisbeautifulawards.com/showcase/2333-map-of-computer-science) has stuck with me for several years. I love it from a layout perspective, how the ideas are conveyed with graphics, and the relative locations/colors of different areas. I have found myself thinking about my own skills and technical domains as a map that has it's "fog of war" effect slowly removed as I link ideas together and things start falling into place. This is really only a retrospective look at it, and nothing I would be able to actually draw out, just a fun analogy I keep coming back to. 
+
+![map_of_CS](..\resources\images\map_of_CS.png){: width="1000" }
 
 
 {% include footer.html %}
