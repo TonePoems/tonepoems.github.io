@@ -142,6 +142,33 @@ This is a fantastic article that practically compares models in an interesting w
 
 ---
 
+### [Spacetime Maps](https://maps.vvolhejn.com/)
+
+![Time Map](..\resources\images\time_maps.png){: width="500" }
+
+A map that can show time instead of space. Distances in the map reflect travel times: points that are close but take a long time to travel between (by car) get pushed away from each other, and vice versa.
+
+---
+
+### [GLOBAL CAPS LOCK](https://github.com/nolenroyalty/global-capslock)
+
+Hilarious Readme, well worth the quick read.
+
+> by using this client YOU CAN SYNCHRONIZE YOUR CAPS LOCK STAte with everyone elsE USING THIS CLIENT
+WHENEVER I PRESS CAPSLOck it is pressed for you and VICE-VERSA
+
+Their stated "Why?" answer is beautiful and fits my criteria for a cool project:
+
+> I WANTED us to all agree about caps lock usage
+
+---
+
+
+
+
+
+
+
 
 ## Technical Articles
 I have several blogs and technical sites I like to read. Usually get a batch of them every month then try to get through one a day. Gives a break from technical stuff, easy reading during lunch, or expands my range a bit. Started this a few years ago when a former boss suggested daily reading as a habit for expanding/connecting ideas and staying current with interesting things.
