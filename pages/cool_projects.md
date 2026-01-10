@@ -165,11 +165,6 @@ Their stated "Why?" answer is beautiful and fits my criteria for a cool project:
 
 
 
-
-
-
-
-
 ## Technical Articles
 I have several blogs and technical sites I like to read. Usually get a batch of them every month then try to get through one a day. Gives a break from technical stuff, easy reading during lunch, or expands my range a bit. Started this a few years ago when a former boss suggested daily reading as a habit for expanding/connecting ideas and staying current with interesting things.
 
@@ -237,6 +232,12 @@ Someone asked today about Mermaid, and it made me want to share some of the othe
 - This [map of computer science](https://www.informationisbeautifulawards.com/showcase/2333-map-of-computer-science) has stuck with me for several years. I love it from a layout perspective, how the ideas are conveyed with graphics, and the relative locations/colors of different areas. I have found myself thinking about my own skills and technical domains as a map that has it's "fog of war" effect slowly removed as I link ideas together and things start falling into place. This is really only a retrospective look at it, and nothing I would be able to actually draw out, just a fun analogy I keep coming back to. 
 
 ![map_of_CS](..\resources\images\map_of_CS.png){: width="1000" }
+
+
+- [Drawing Invisible Concepts](https://maggieappleton.com/drawinginvisibles1) is a nice look at the process of conveying information in a visual way. I have recently accepted that I am much more of a visual person than I originally thought, primarily because of the analytical products I am finding to be the most interesting at work. This has lead me to researching more of this idea: how can we take tons of data and most effectively share it? This is useful for customer outbriefs and creating useful summaries with the proper level of detail.
+   - [Kvick Sort](https://idea-instructions.com/quick-sort/) is a great example of this, from the well known creator of nonverbal
+(algorithm) assembly instructions, ~~IKEA~~ [IDEA](https://idea-instructions.com/).
+
 
 
 {% include footer.html %}
