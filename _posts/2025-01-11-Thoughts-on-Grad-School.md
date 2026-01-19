@@ -20,10 +20,10 @@ The first gut punch of grad school happened in this class, when a fellow grad st
 This was the very theory heavy class that temporarily made me rage but overall was good. It was very obviously taught by someone with pure theory knowledge, going over the strictest mathematical definition of Big O Notation. Covered FSA and ND-FSA as well as the titular complexity classes.
 
 #### Spring 2023 
-1. **Algorithm Design and Analysis - CS 7200 **
+1. **Algorithm Design and Analysis - CS 7200**
 Another theory heavy class by T.K. Prasad. It also is one of the CS core classes for a masters. It taught some interesting tricks and some patterns for the interview type scheduling/resource allocation questions you might get. While those specific scenarios might not pop up in day to day programming, it was good to have some more experience and tools for thinking about these sorts of problems.
 
-2. **Soft Computing - CS 7840 **
+2. **Soft Computing - CS 7840**
 Another special topics class taught by Sanhgui Han. The class was split into 3 topics; NLP, machine learning, and quantum computing. Being split up, it felt like more of a survey type class, and was fairly fun. The final presentations were again not very well done and she went off on several for not really doing the work.
 
 #### Summer 2023 
@@ -37,11 +37,11 @@ This one was taught by Eric Buck and was easier than the undergrad version I too
 A good theory course from T.K. Prasad. Implemented a simple language with LISP. His standard hard exams with low scores but good curve. Easy enough, though I was traveling a lot during this semester. I remember taking many notes in different airport lounges with Ted Masternak. Another core course where I noticed the trend of low exam scores with a high curve. 
 
 #### Spring 2024 
-1. **Information Retrieval - CS 7800 **
+1. **Information Retrieval - CS 7800**
 Classic T.K. Prasad class. 2 small python projects. One implemented a basic indexing and search application (academic, nothing grand like you think of when you hear "application"). Do some stats on it to show performance. Second one was extending some sklearn libs to create custom classifiers and doing the performance evaluations on them.
 
 #### Fall 2024 
-1. **Fundamentals of Data Science - CS 7730 **
+1. **Fundamentals of Data Science - CS 7730**
 Pretty sure I was in the first offered section of this. It was stupid easy. 3 simple Python projects to plot basic data in an open ended effort. Based on my job, this could have been a really cool way to explore more unique ways to display data but it was a bit underwhelming. I remember thinking the professor was a bit of a pushover when it came to assignment due dates and assignment criteria, setting back the requirements and due dates multiple times.
 
 #### Spring 2025 
