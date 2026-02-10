@@ -163,6 +163,13 @@ Their stated "Why?" answer is beautiful and fits my criteria for a cool project:
 
 ---
 
+### [Breaking the Limits of Simulation to Find Order in Chaos](https://youtu.be/8jVogdTJESw?si=MRnHQk3XClLz3N5C)
+
+![Double Pendulum screenshot](..\resources\images\double_pendulum.png){: width="500" }
+
+This is a beautiful video that goes into great detail on the emergent behaviors of double pendulums. It builds up the necessary background and dives into interesting areas with fantastic visualizations that build on each other in a very cohesive narrative. This is very impressive from a data visualization/story perspective. A ton of hard work went into this video and it shows. 
+
+---
 
 
 ## Technical Articles
