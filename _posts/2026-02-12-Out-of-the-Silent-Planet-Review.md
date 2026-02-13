@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Out of the Silent Planet Review"
-tags: sample tags
+tags: book review
 ---
 
 # Out of the Silent Planet Review
 
-by C.S. Lewis. Published 1938.
+by C.S. Lewis. Published 1938. These notes were originally for a book club writeup I did, so more in discussion format than article form.
 
 ## Religious Background of Lewis
 
@@ -59,14 +59,12 @@ I loved the depictions of the planet. There was enough to set the scene and popu
 ![Cover 2](../../../resources/images/out_of_silent_planet/cover_2.png){: width="350" }
 
 
-
 ![canals](../../../resources/images/out_of_silent_planet/canals.png){: width="550" }
 
 Martian "canals", depicted by Percival Lowell. These seem to line up with the descriptions of large construction projects to create the handramits after the Bent One destroyed the surface. 
 
 During the 1894 opposition, the idea that Schiaparelli's _canali_ were really irrigation canals made by intelligent beings was first hinted at, and then adopted as the only intelligible explanation, by American astronomer [Percival Lowell](https://en.wikipedia.org/wiki/Percival_Lowell "Percival Lowell") and a few others. The visible seasonal melting of Mars polar icecaps fueled speculation that an advanced alien race indigenous to Mars built canals to transport the water to drier equatorial regions.
 
-![[Pasted image 20250618220339.png]]
 ![Mars map](../../../resources/images/out_of_silent_planet/mars_map.png)
 
 A 1962 map of Mars published by the U.S. [Aeronautical Chart and Information Center](https://en.wikipedia.org/wiki/Aeronautical_Chart_and_Information_Center "Aeronautical Chart and Information Center"), showing canals snaking through the Martian landscape. At the time, the existence of the canals was still highly controversial as no close-up pictures of Mars had been taken.
