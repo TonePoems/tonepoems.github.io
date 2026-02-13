@@ -86,10 +86,9 @@ There's a [comic version](https://waveyourgeekflag.blogspot.com/2013/11/out-of-s
 
 ![comic](../../../resources/images/out_of_silent_planet/comic.png)
 
-
 Details sourced from 
-- https://the-silent-planet.fandom.com/wiki/Out_of_the_Silent_Planet
-- https://en.wikipedia.org/wiki/Martian_canals
+- [https://the-silent-planet.fandom.com/wiki/Out_of_the_Silent_Planet](https://the-silent-planet.fandom.com/wiki/Out_of_the_Silent_Planet)
+- [https://en.wikipedia.org/wiki/Martian_canals](https://en.wikipedia.org/wiki/Martian_canals)
 
 
 {% include footer.html %}
