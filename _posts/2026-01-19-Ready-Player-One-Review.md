@@ -4,7 +4,7 @@ title:  "Ready Player One Review"
 tags: book review
 ---
 
-# Ready Player One
+# Ready Player One Review
 
 Craig really likes this one, and loaned me his copy. I got through it in several days.
 
