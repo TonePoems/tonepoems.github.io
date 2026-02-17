@@ -11,9 +11,10 @@ These are born from my wife's request for rambling stories for her to fall aslee
 ![Calvin's Dad's Knowledge](..\resources\images\calvin_bridges.png)
 
 
-- TODO: [John C. Paper](), the inventor of paper.
-- TODO: [Hermann T. Carr](), the inventor of the car.
-- TODO: [Constantine Pine](), the inventor of the Christmas tree. 
+- [John C. Paper](./Bedtime_Stories/paper.md), the inventor of paper.
+- [Hermann T. Carr](./Bedtime_Stories/car.md), the inventor of the car.
+- [Constantine Pine](./Bedtime_Stories/pine.md), the inventor of the Christmas tree. 
+- [Iceiclus Creamicus](/Bedtime_Stories/ice_cream.md), the inventor of the ice cream. 
 
 
 {% include footer.html %}
