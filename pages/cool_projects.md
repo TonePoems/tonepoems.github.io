@@ -252,5 +252,9 @@ Someone asked today about Mermaid, and it made me want to share some of the othe
 (algorithm) assembly instructions, ~~IKEA~~ [IDEA](https://idea-instructions.com/).
 
 
+- [Sports Ball](https://www.youtube.com/@SportsBall_Visual) has a beautiful selection of inspiration for both data visualization and a narrative presentation of it. 
+
+![Sports Ball one page graphic](..\resources\images\sports_ball.png)
+
 
 {% include footer.html %}

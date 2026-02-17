@@ -11,6 +11,7 @@ As mentioned, this site is for my personal ramblings, interesting projects I wan
 I'll get to it when I get to it, and that is fine. 
 
 - [Cool Projects](pages/cool_projects.md)
+- [Bedtime Stories](pages/bedtime_stories.md)
 
 
 ### Posts
