@@ -13,8 +13,9 @@ This page is broken up into
 - [Technical Projects](#technical-projects)
 - [Technical Articles/Blogs](#technical-articles)
 - [Documentation and Visualization Tools](#documentation-and-visual-tools)
+- [Learning Materials](#learning-materials)
 
-
+These are not perfect categories, there may be overlap between sections and some articles could be justified in multiple sections. Items are placed where I think made sense. 
 
 ## Technical Projects
 
@@ -255,6 +256,27 @@ Someone asked today about Mermaid, and it made me want to share some of the othe
 - [Sports Ball](https://www.youtube.com/@SportsBall_Visual) has a beautiful selection of inspiration for both data visualization and a narrative presentation of it. 
 
 ![Sports Ball one page graphic](..\resources\images\sports_ball.png)
+
+
+## Learning Materials
+
+The following was started as a collection of materials for a new hire before they graduated, looking for things to study up on.
+Here is an outline of some generic training/skills that I think would be useful on the job. All these links are things that I have found/been linked to on the job and have used at some point! They are roughly in priority order. 
+
+1. [GitLab/Git](https://docs.gitlab.com/tutorials/)
+We primarily use GitLab for our code repos, issue tracking, and CI/CD. I still use GitHub for my personal projects, as it was started in college. Getting accustomed to some of the differences early is useful. 
+
+2. [Design Patterns](https://refactoring.guru/design-patterns)
+Pretty easy introductions to common patterns within software engineering. Can be useful if you want to beef up on ways to think about and structure code.
+
+3. [The Virtual Terrain Project](http://vterrain.org/)
+More on the visual side, but probably the most fun on this list. Cool visualizations and tools, decent amount out of date and few that we use, but cool to see what is out there. DTED, ground imagery and cultural aspects are likely the most relevant, but poke around whatever is interesting to you. Context is always useful.
+
+4. Soft(er) Skills
+Don’t neglect these. Simple things like technical writing (Word is primary, sorry no LaTeX…) and presentations (both putting together in PowerPoint and presenting them) are useful. I would not spend extra time “practicing” them, but take them seriously if they come up in school!
+
+5. [ISE Engineering Fundamentals](https://microsoft.github.io/code-with-engineering-playbook)
+Much more detailed and strict project rules. Gives good ideas on what working on a team can look like and best practices. That does not mean we follow all of them, but again, good for reference.
 
 
 {% include footer.html %}
