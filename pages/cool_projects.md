@@ -19,7 +19,9 @@ These are not perfect categories, there may be overlap between sections and some
 
 ## Technical Projects
 
-This is a collection of some of my favorite projects found online. They are usually a source of thought, inspiration, and often a good amount of imposter syndrome. I obviously don't have strict criteria for what projects really stick with me, but I have found that most often their motivation statement could be `¯\_(ツ)_/¯`. The unnecessary, but made anyways really captures what I love about all you can create with programming.
+This is a collection of some of my favorite projects found online. They are usually a source of thought, inspiration, and often a good amount of imposter syndrome. I obviously don't have strict criteria for what projects really stick with me, but I have found that most often their motivation statement could be `¯\_(ツ)_/¯`. The unnecessary, but made anyways really captures what I love about all you can create with programming. To misquote Thoreau in [Walden](https://www.literaturepage.com/read/walden-77.html):
+
+>"To be intoxicated by a single glass of wine; I have experienced this pleasure when I have drunk the liquor of the esoteric"
 
 I will attempt to provide a decent summary of each, but please check out the original sources!
 
@@ -272,6 +274,8 @@ Here is an outline of some generic training/skills that I think would be useful 
 4. Soft(er) Skills: Don’t neglect these. Simple things like technical writing (Word is primary, sorry no LaTeX…) and presentations (both putting together in PowerPoint and presenting them) are useful. I would not spend extra time “practicing” them, but take them seriously if they come up in school!
 
 5. [ISE Engineering Fundamentals](https://microsoft.github.io/code-with-engineering-playbook): Much more detailed and strict project rules. Gives good ideas on what working on a team can look like and best practices. That does not mean we follow all of them, but again, good for reference.
+
+6. [Making Software](https://www.makingsoftware.com/): A reference manual for people who design and build software. 
 
 
 {% include footer.html %}
