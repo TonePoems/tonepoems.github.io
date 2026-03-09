@@ -4,7 +4,7 @@ title:  "On Drafts"
 tags: rant
 ---
 
-# On Scams
+# On Drafts
 
 Not in my nature. Perfectionism doesn't allow it. 
 
