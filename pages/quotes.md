@@ -4,7 +4,7 @@ title: "Quote Book"
 permalink: /quotes
 ---
 
-# Quote Books
+# Quote Book
 
 ![Bob Case](..\resources\images\bob_case.png)
 

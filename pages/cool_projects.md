@@ -259,6 +259,10 @@ Someone asked today about Mermaid, and it made me want to share some of the othe
 
 ![Sports Ball one page graphic](..\resources\images\sports_ball.png)
 
+- [Laws of Software Engineering](https://lawsofsoftwareengineering.com/): A collection of principles and patterns that shape software systems, teams, and decisions.
+
+- [Interactive GPS primer](https://ciechanow.ski/gps/)
+
 
 ## Learning Materials
 
