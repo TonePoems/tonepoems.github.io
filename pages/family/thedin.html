@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thedin Photos</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background: #f0f0f0;
+            overflow: hidden;
+        }
+
+        #gallery-container {
+            width: 100vw;
+            height: 100vh;
+            position: relative;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            overflow: hidden;
+        }
+
+        .draggable-image {
+            position: absolute;
+            cursor: grab;
+            border-radius: 8px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+            transition: transform 0.2s, box-shadow 0.2s;
+            user-select: none;
+        }
+
+        .draggable-image:hover {
+            transform: scale(1.05);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+            z-index: 1000;
+        }
+
+        .draggable-image.dragging {
+            cursor: grabbing;
+            transform: scale(1.1);
+            box-shadow: 0 12px 35px rgba(0, 0, 0, 0.5);
+            z-index: 9999;
+        }
+
+        .draggable-image img {
+            width: 200px;
+            height: auto;
+            border-radius: 8px;
+            display: block;
+        }
+
+        #instructions {
+            position: fixed;
+            top: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: rgba(255, 255, 255, 0.9);
+            padding: 15px 30px;
+            border-radius: 25px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+            z-index: 10000;
+            font-size: 14px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div id="instructions">Click and drag photos to move them around!</div>
+    <div id="gallery-container"></div>
+
+    <script>
+        const imageFiles = [
+            'DSC_0001A.jpg', 'DSC_0003A.jpg', 'DSC_0004A.jpg', 'DSC_0005A.jpg', 'DSC_0007A.jpg',
+            'DSC_0008A.jpg', 'DSC_0009A.jpg', 'DSC_0011A.jpg', 'DSC_0012A.jpg', 'DSC_0014A.jpg',
+            'DSC_0016A.JPG', 'DSC_0017A.JPG', 'DSC_0019A.jpg', 'DSC_0023A.jpg', 'DSC_0025A.jpg',
+            'DSC_0026A.jpg', 'DSC_0027A.jpg', 'DSC_0028A.jpg', 'DSC_0029A.jpg', 'DSC_0031A.jpg',
+            'DSC_0032B.jpg', 'DSC_0033A.jpg', 'DSC_0035A.jpg', 'DSC_0036A.jpg', 'DSC_0037A.jpg',
+            'DSC_0038A.jpg', 'DSC_0039A.jpg', 'DSC_0040A.jpg', 'DSC_0041A.jpg', 'DSC_0042A.jpg',
+            'DSC_0043A.jpg', 'DSC_0044A.jpg', 'DSC_0045A.jpg', 'DSC_0046A.jpg', 'DSC_0047A.jpg',
+            'DSC_0048A.jpg', 'DSC_0049A.jpg', 'DSC_0050A.jpg', 'DSC_0051A.jpg', 'DSC_0052A.jpg',
+            'DSC_0053A.jpg', 'DSC_0054A.jpg', 'DSC_0055A.jpg', 'DSC_0056A.jpg', 'DSC_0057A.jpg',
+            'DSC_0058A.jpg', 'DSC_0059A.jpg', 'DSC_0067A.jpg', 'DSC_0068A.jpg', 'DSC_0069A.jpg',
+            'DSC_0070A.jpg', 'DSC_0071A.jpg', 'DSC_0073A.jpg', 'DSC_0074A.jpg', 'DSC_0075A.jpg',
+            'DSC_0076A.jpg', 'DSC_0078A.jpg', 'DSC_0081A.jpg', 'DSC_0082A.jpg', 'DSC_0084A.jpg',
+            'DSC_0085A.jpg'
+        ];
+
+        const container = document.getElementById('gallery-container');
+        const imageBasePath = '../../resources/images/Thedin_photos/';
+
+        function getRandomPosition(maxWidth, maxHeight) {
+            const x = Math.random() * (maxWidth - 200);
+            const y = Math.random() * (maxHeight - 150);
+            return { x: Math.max(0, x), y: Math.max(0, y) };
+        }
+
+        function createDraggableImage(imageSrc) {
+            const wrapper = document.createElement('div');
+            wrapper.className = 'draggable-image';
+            
+            const img = document.createElement('img');
+            img.src = imageSrc;
+            img.alt = 'Thedin photo';
+            img.draggable = false;
+            
+            wrapper.appendChild(img);
+            
+            const position = getRandomPosition(window.innerWidth - 200, window.innerHeight - 150);
+            wrapper.style.left = position.x + 'px';
+            wrapper.style.top = position.y + 'px';
+            
+            let isDragging = false;
+            let startX, startY, initialX, initialY;
+            
+            wrapper.addEventListener('mousedown', (e) => {
+                isDragging = true;
+                wrapper.classList.add('dragging');
+                startX = e.clientX;
+                startY = e.clientY;
+                initialX = wrapper.offsetLeft;
+                initialY = wrapper.offsetTop;
+                e.preventDefault();
+            });
+            
+            document.addEventListener('mousemove', (e) => {
+                if (!isDragging) return;
+                
+                const dx = e.clientX - startX;
+                const dy = e.clientY - startY;
+                
+                let newX = initialX + dx;
+                let newY = initialY + dy;
+                
+                // Keep within bounds
+                newX = Math.max(0, Math.min(newX, window.innerWidth - wrapper.offsetWidth));
+                newY = Math.max(0, Math.min(newY, window.innerHeight - wrapper.offsetHeight));
+                
+                wrapper.style.left = newX + 'px';
+                wrapper.style.top = newY + 'px';
+            });
+            
+            document.addEventListener('mouseup', () => {
+                if (isDragging) {
+                    isDragging = false;
+                    wrapper.classList.remove('dragging');
+                }
+            });
+            
+            return wrapper;
+        }
+
+        function loadImages() {
+            imageFiles.forEach(filename => {
+                const imagePath = imageBasePath + filename;
+                const draggableImage = createDraggableImage(imagePath);
+                container.appendChild(draggableImage);
+            });
+        }
+
+        // Load images when page loads
+        window.addEventListener('load', loadImages);
+
+        // Handle window resize
+        window.addEventListener('resize', () => {
+            const images = document.querySelectorAll('.draggable-image');
+            images.forEach(img => {
+                const currentX = img.offsetLeft;
+                const currentY = img.offsetTop;
+                const maxX = window.innerWidth - img.offsetWidth;
+                const maxY = window.innerHeight - img.offsetHeight;
+                
+                if (currentX > maxX) {
+                    img.style.left = Math.max(0, maxX) + 'px';
+                }
+                if (currentY > maxY) {
+                    img.style.top = Math.max(0, maxY) + 'px';
+                }
+            });
+        });
+    </script>
+</body>
+</html>
